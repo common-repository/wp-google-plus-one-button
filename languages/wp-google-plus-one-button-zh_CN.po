@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Plus One Button 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-25 18:24+0530\n"
+"PO-Revision-Date: 2016-10-26 16:54+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button\n"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:318
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:319
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:539
+msgid "WP Google Plus One Button"
+msgstr "WP谷歌加一按钮"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:526
+msgid "The width should be in between 120 to 450"
+msgstr "的宽度应该是在 120 到 450 之间"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:527
+msgid "Width should be a number"
+msgstr "宽度应为数字"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:533
+msgid "Plugin Setting Has Saved"
+msgstr "插件設置已保存"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:539
+msgid "by"
+msgstr "通過"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:550
+msgid "Main Settings"
+msgstr "主要設置"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:554
+msgid "Enable Google Plus Like and Share"
+msgstr "启用谷歌加喜欢并分享"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:558
+msgid "Select Post Type"
+msgstr "選擇過帳類型"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:605
+msgid "Page / Post id to exclude:"
+msgstr "網頁/要排除的訊息ID："
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:612
+msgid "Place Google Plus Like at"
+msgstr "将谷歌加在一样"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:615
+msgid "Above the content"
+msgstr "以上内容"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:616
+msgid "Below the content"
+msgstr "下面的内容"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:617
+msgid "Both Above And Below the content"
+msgstr "以上和以下內容"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:622
+msgid "Place Google Plus Like With"
+msgstr "放置Google Plus喜歡"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:625
+msgid "With The Post"
+msgstr "崗位的人"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:626
+msgid "With The Page"
+msgstr "頁的"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:627
+msgid "Both Page And Post"
+msgstr "頁面和崗位"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:628
+msgid "With The Excerpt"
+msgstr "摘錄"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:633
+msgid "Size"
+msgstr "大小"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:636
+msgid "Small"
+msgstr "小"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:637
+msgid "Medium"
+msgstr "中"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:638
+msgid "Standard"
+msgstr "标准"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:639
+msgid "Tall"
+msgstr "高"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:644
+msgid "Language settings"
+msgstr "语言设置"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:647
+msgid "Afrikaans"
+msgstr "南非荷蘭語"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:648
+msgid "Amharic - ‪አማርኛ‬"
+msgstr "阿姆哈拉語 - ‪አማርኛ‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:649
+msgid "Arabic - ‫العربية‬"
+msgstr "阿拉伯 - ‫العربية‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:650
+msgid "Basque - ‪euskara‬"
+msgstr "巴斯克 - ‪euskara‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:651
+msgid "Bengali - ‪বাংলা‬"
+msgstr "孟加拉 - ‪বাংলা‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:652
+msgid "Bulgarian - ‪български‬"
+msgstr "保加利亞語 - ‪български‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:653
+msgid "Catalan - ‪català‬"
+msgstr "加泰羅尼亞語 - ‪català‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:654
+msgid "Chinese (Hong Kong) - ‪中文（香港）‬"
+msgstr "中文（香港） - ‪中文（香港）‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:655
+msgid "Chinese (Simplified) - ‪简体中文‬"
+msgstr "簡體中文） - ‪简体中文‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:656
+msgid "Chinese (Traditional) - ‪繁體中文‬"
+msgstr "中國傳統的） - ‪繁體中文‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:657
+msgid "Croatian - ‪Hrvatski‬"
+msgstr "克羅地亞語 - ‪Hrvatski‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:658
+msgid "Czech - ‪Čeština‬"
+msgstr "捷克語 - ‪Čeština‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:659
+msgid "Danish - ‪Dansk‬"
+msgstr "丹麥語 - ‪Dansk‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:660
+msgid "Dutch - ‪Nederlands‬"
+msgstr "荷蘭語 - ‪Nederlands‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:661
+msgid "English (United Kingdom)"
+msgstr "英語（英國）"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:662
+msgid "English (USA)"
+msgstr "英語（美國）"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:663
+msgid "Estonian - ‪eesti‬"
+msgstr "愛沙尼亞語 - ‪eesti‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:664
+msgid "Filipino"
+msgstr "菲律賓"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:665
+msgid "Finnish - ‪Suomi‬"
+msgstr "芬蘭 - ‪Suomi‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:666
+msgid "French (Canada) - ‪Français (Canada)‬"
+msgstr "法語（加拿大） - ‪Français (Canada)‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:667
+msgid "French (France) - ‪Français (France)"
+msgstr "法语（法国) - ‪Français (France)"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:668
+msgid "Galician - ‪galego‬"
+msgstr "加利西亞 - ‪galego‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:669
+msgid "German -Deutsch"
+msgstr "德语 - Deutsch"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:670
+msgid "Greek - ‪Ελληνικά‬"
+msgstr "希臘語 - ‪Ελληνικά‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:671
+msgid "Gujarati - ‪ગુજરાતી‬"
+msgstr "古吉拉特 - ‪ગુજરાતી‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:672
+msgid "Hebrew - ‫עברית‬"
+msgstr "希伯來語 - ‫עברית‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:673
+msgid "Hindi - ‪हिन्दी"
+msgstr "印地文 - ‪हिन्दी"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:674
+msgid "Hungarian - ‪magyar‬"
+msgstr "匈牙利 - ‪magyar‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:675
+msgid "Icelandic - ‪íslenska‬"
+msgstr "冰島的 - ‪íslenska‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:676
+msgid "Indonesian - ‪Bahasa Indonesia‬"
+msgstr "印度尼西亞 - ‪Bahasa Indonesia‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:677
+msgid "Italian - ‪Italiano"
+msgstr "意大利人 - ‪Italiano"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:678
+msgid "Japanese - ‪日本語‬"
+msgstr "日本 - ‪日本語‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:679
+msgid "Kannada - ‪ಕನ್ನಡ‬"
+msgstr "卡納達 - ‪ಕನ್ನಡ‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:680
+msgid "Korean - ‪한국어"
+msgstr "韩国 - ‪한국어"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:681
+msgid "Latvian - ‪latviešu‬"
+msgstr "拉脫維亞 - ‪latviešu‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:682
+msgid "Lithuanian - ‪lietuvių‬"
+msgstr "立陶宛語 - ‪lietuvių‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:683
+msgid "Malay - ‪Bahasa Melayu‬"
+msgstr "馬來語 - ‪Bahasa Melayu‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:684
+msgid "Malayalam - ‪മലയാളം‬‬"
+msgstr "馬拉雅拉姆 - ‪മലയാളം‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:685
+msgid "Marathi - ‪मराठी‬‬"
+msgstr "馬拉地 - ‪मराठी‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:686
+msgid "Norwegian - ‪norsk‬"
+msgstr "挪威 - ‪norsk‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:687
+msgid "Persian - ‫فارسی‬‬"
+msgstr "波斯語 - ‫فارسی‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:688
+msgid "Polish - ‪polski‬‬"
+msgstr "拋光 - ‪polski‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:689
+msgid "Portuguese (Brazil) - ‪Português (Brasil)‬‬‬"
+msgstr "葡萄牙語（巴西） - ‪Português (Brasil)‬‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:690
+msgid "Portuguese (Portugal) - ‪Português (Portugal)"
+msgstr "葡萄牙语（葡萄牙 - ‪Português (Portugal)"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:691
+msgid "Romanian - ‪română‬"
+msgstr "羅馬尼亞語 - ‪română‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:692
+msgid "Russian - ‪Русский‬"
+msgstr "俄 - ‪Русский‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:693
+msgid "Serbian - ‪Српски‬"
+msgstr "塞爾維亞 - ‪Српски‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:694
+msgid "Slovak - ‪Slovenčina‬‬"
+msgstr "斯洛伐克 - ‪Slovenčina‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:695
+msgid "Slovenian - ‪slovenščina‬‬"
+msgstr "斯洛文尼亞語 - ‪slovenščina‬‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:696
+msgid "Spanish (Latin America) - ‪Español (Latinoamérica)‬"
+msgstr "西班牙語（拉丁美洲） - ‪Español (Latinoamérica)"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:697
+msgid "Spanish (Spain) - ‪Español (España)"
+msgstr "西班牙语（西班牙）-  ‪Español (España)"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:698
+msgid "Swahili - ‪Kiswahili‬"
+msgstr "斯瓦希里語 - ‪Kiswahili‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:699
+msgid "Swedish - ‪Svenska‬"
+msgstr "瑞典 - ‪Svenska‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:700
+msgid "Tamil - ‪தமிழ்‬"
+msgstr "泰米尔语 - ‪தமிழ்‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:701
+msgid "Telugu - ‪తెలుగు‬"
+msgstr "泰卢固语 - ‪తెలుగు‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:702
+msgid "Thai - ‪ไทย‬"
+msgstr "泰国 - ‪ไทย‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:703
+msgid "Turkish - ‪Türkçe"
+msgstr "土耳其 - ‪Türkçe"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:704
+msgid "Ukrainian - ‪Українська"
+msgstr "乌克兰 - ‪Українська"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:705
+msgid "Urdu - ‫اردو‬"
+msgstr "乌尔都语 - ‫اردو‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:706
+msgid "Vietnamese - ‪Tiếng Việt‬"
+msgstr "越南语 - ‪Tiếng Việt‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:707
+msgid "Zulu - ‪isiZulu‬"
+msgstr "祖鲁 - ‪isiZulu‬"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:713
+msgid "Width"
+msgstr "宽度"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:717
+msgid "Data Annotation"
+msgstr "数据注释"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:720
+msgid "Inline"
+msgstr "内联"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:721
+msgid "Bubble"
+msgstr "泡沫"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:722
+msgid "None"
+msgstr "无"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:727
+msgid "Asynchronous"
+msgstr "异步"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:733
+msgid "Save"
+msgstr "节省"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:743
+msgid "Download Free Plugins"
+msgstr "下载免费插件"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:746
+msgid "Vivacity InfoTech Pvt. Ltd. is an ISO 9001:2015 Certified Company is a Global IT Services company with expertise in outsourced product development and custom software development with focusing on software development, IT consulting, customized development.We have 200+ satisfied clients worldwide."
+msgstr "Vivacity InfoTech Pvt。 Ltd.是一家ISO 9001：2015认证公司，是一家全球IT服务公司，专注于外包产品开发和定制软件开发，专注于软件开发，IT咨询，定制开发。我们在全球拥有200多个满意的客户。"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:747
+msgid "Our Free Plugins"
+msgstr "我们的免费插件"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:750
+msgid "WP twitter feeds"
+msgstr "WP twitter馈送"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:751
+msgid "Facebook Comments by Vivacity"
+msgstr "Facebook评论由Vivacity"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:752
+msgid "Vi Random Post Widget"
+msgstr "Vi随机邮件小部件"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:753
+msgid "WP EasyScroll Posts"
+msgstr "WP Easy Scroll帖子"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:758
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:761
+msgid "Donate Here"
+msgstr "在这里捐款"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:760
+msgid "If you want to donate, please click on below image."
+msgstr "如果你想捐赠，请点击下面的图片。"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:765
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:768
+msgid "Woocommerce Frontend Plugin"
+msgstr "Woocommerce前端插件"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:767
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:774
+msgid "If you want to purchase , please click on below image."
+msgstr "如果您想购买，请点击下面的图片。"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:772
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:775
+msgid "Blue Frog Template"
+msgstr "蓝色青蛙模板"
+

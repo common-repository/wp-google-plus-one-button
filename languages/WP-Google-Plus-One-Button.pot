@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Plus One Button 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-25 18:24+0530\n"
+"PO-Revision-Date: 2016-10-25 18:25+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button\n"
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:318
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:319
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:539
+msgid "WP Google Plus One Button"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:526
+msgid "The width should be in between 120 to 450"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:527
+msgid "Width should be a number"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:533
+msgid "Plugin Setting Has Saved"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:539
+msgid "by"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:550
+msgid "Main Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:554
+msgid "Enable Google Plus Like and Share"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:558
+msgid "Select Post Type"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:605
+msgid "Page / Post id to exclude:"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:612
+msgid "Place Google Plus Like at"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:615
+msgid "Above the content"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:616
+msgid "Below the content"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:617
+msgid "Both Above And Below the content"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:622
+msgid "Place Google Plus Like With"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:625
+msgid "With The Post"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:626
+msgid "With The Page"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:627
+msgid "Both Page And Post"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:628
+msgid "With The Excerpt"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:633
+msgid "Size"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:636
+msgid "Small"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:637
+msgid "Medium"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:638
+msgid "Standard"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:639
+msgid "Tall"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:644
+msgid "Language settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:647
+msgid "Afrikaans"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:648
+msgid "Amharic - ‪አማርኛ‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:649
+msgid "Arabic - ‫العربية‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:650
+msgid "Basque - ‪euskara‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:651
+msgid "Bengali - ‪বাংলা‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:652
+msgid "Bulgarian - ‪български‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:653
+msgid "Catalan - ‪català‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:654
+msgid "Chinese (Hong Kong) - ‪中文（香港）‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:655
+msgid "Chinese (Simplified) - ‪简体中文‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:656
+msgid "Chinese (Traditional) - ‪繁體中文‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:657
+msgid "Croatian - ‪Hrvatski‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:658
+msgid "Czech - ‪Čeština‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:659
+msgid "Danish - ‪Dansk‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:660
+msgid "Dutch - ‪Nederlands‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:661
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:662
+msgid "English (USA)"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:663
+msgid "Estonian - ‪eesti‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:664
+msgid "Filipino"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:665
+msgid "Finnish - ‪Suomi‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:666
+msgid "French (Canada) - ‪Français (Canada)‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:667
+msgid "French (France) - ‪Français (France)"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:668
+msgid "Galician - ‪galego‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:669
+msgid "German -Deutsch"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:670
+msgid "Greek - ‪Ελληνικά‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:671
+msgid "Gujarati - ‪ગુજરાતી‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:672
+msgid "Hebrew - ‫עברית‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:673
+msgid "Hindi - ‪हिन्दी"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:674
+msgid "Hungarian - ‪magyar‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:675
+msgid "Icelandic - ‪íslenska‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:676
+msgid "Indonesian - ‪Bahasa Indonesia‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:677
+msgid "Italian - ‪Italiano"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:678
+msgid "Japanese - ‪日本語‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:679
+msgid "Kannada - ‪ಕನ್ನಡ‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:680
+msgid "Korean - ‪한국어"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:681
+msgid "Latvian - ‪latviešu‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:682
+msgid "Lithuanian - ‪lietuvių‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:683
+msgid "Malay - ‪Bahasa Melayu‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:684
+msgid "Malayalam - ‪മലയാളം‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:685
+msgid "Marathi - ‪मराठी‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:686
+msgid "Norwegian - ‪norsk‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:687
+msgid "Persian - ‫فارسی‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:688
+msgid "Polish - ‪polski‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:689
+msgid "Portuguese (Brazil) - ‪Português (Brasil)‬‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:690
+msgid "Portuguese (Portugal) - ‪Português (Portugal)"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:691
+msgid "Romanian - ‪română‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:692
+msgid "Russian - ‪Русский‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:693
+msgid "Serbian - ‪Српски‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:694
+msgid "Slovak - ‪Slovenčina‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:695
+msgid "Slovenian - ‪slovenščina‬‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:696
+msgid "Spanish (Latin America) - ‪Español (Latinoamérica)‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:697
+msgid "Spanish (Spain) - ‪Español (España)"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:698
+msgid "Swahili - ‪Kiswahili‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:699
+msgid "Swedish - ‪Svenska‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:700
+msgid "Tamil - ‪தமிழ்‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:701
+msgid "Telugu - ‪తెలుగు‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:702
+msgid "Thai - ‪ไทย‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:703
+msgid "Turkish - ‪Türkçe"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:704
+msgid "Ukrainian - ‪Українська"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:705
+msgid "Urdu - ‫اردو‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:706
+msgid "Vietnamese - ‪Tiếng Việt‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:707
+msgid "Zulu - ‪isiZulu‬"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:713
+msgid "Width"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:717
+msgid "Data Annotation"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:720
+msgid "Inline"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:721
+msgid "Bubble"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:722
+msgid "None"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:727
+msgid "Asynchronous"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:733
+msgid "Save"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:743
+msgid "Download Free Plugins"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:746
+msgid "Vivacity InfoTech Pvt. Ltd. is an ISO 9001:2015 Certified Company is a Global IT Services company with expertise in outsourced product development and custom software development with focusing on software development, IT consulting, customized development.We have 200+ satisfied clients worldwide."
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:747
+msgid "Our Free Plugins"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:750
+msgid "WP twitter feeds"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:751
+msgid "Facebook Comments by Vivacity"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:752
+msgid "Vi Random Post Widget"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:753
+msgid "WP EasyScroll Posts"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:758
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:761
+msgid "Donate Here"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:760
+msgid "If you want to donate, please click on below image."
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:765
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:768
+msgid "Woocommerce Frontend Plugin"
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:767
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:774
+msgid "If you want to purchase , please click on below image."
+msgstr ""
+
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:772
+#: /opt/lampp/htdocs/frontendproduct/wp-content/plugins/wp-google-plus-one-button/wp-google-plus-one-button.php:775
+msgid "Blue Frog Template"
+msgstr ""
+
